@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="xxxhdpi"
+    format="7"
+    timestamp="10810283160871" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="406" />
+    <task
+        name="verifier"
+        duration="195" />
+
+    <artifact
+        location="C:\Users\Teo\AndroidStudioProjects\OCRDemo\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="10810283160871" >
+        <artifact
+            location="C:\Users\Teo\AndroidStudioProjects\OCRDemo\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
