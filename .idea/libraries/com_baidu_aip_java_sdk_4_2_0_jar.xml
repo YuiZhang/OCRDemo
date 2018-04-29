@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.baidu.aip:java-sdk:4.2.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baidu.aip/java-sdk/4.2.0/1391acc4d99a7ce0005c813a89f99ec694b9ec22/java-sdk-4.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baidu.aip/java-sdk/4.2.0/ecffaa6ebefa3d36eebce234f3c358e59623edc6/java-sdk-4.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
